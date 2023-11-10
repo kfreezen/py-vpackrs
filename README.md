@@ -1,8 +1,11 @@
-# rust-velocypack
+# py-vpackrs
 
 [![Build Status](https://travis-ci.com/davechallis/rust-velocypack.svg?branch=master)](https://travis-ci.com/davechallis/rust-velocypack)
 [![Docs status](https://docs.rs/velocypack/badge.svg)](https://docs.rs/velocypack)
 [![codecov](https://codecov.io/gh/davechallis/rust-velocypack/branch/master/graph/badge.svg)](https://codecov.io/gh/davechallis/rust-velocypack)
+
+Python bindings for the rust implementation of VelocyPack.
+Thanks to @davechallis for writing [rust-velocypack](https://github.com/davechallis/rust-velocypack)
 
 Rust implementation of the [VelocyPack](https://github.com/arangodb/velocypack)
 protocol used by [ArangoDB](https://www.arangodb.com/) that uses
